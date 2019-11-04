@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #20232a;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+body {
+  background-color: #20232a;
+  color: white;
+}
+
+.container {
+  margin-top: 100px;
+  text-align: left;
+}
+
+.Contact {
+  height: 200px;
+  width: 400px;
+  background: black;
+
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -200px;
+}
+
+
+input[type=text]:focus {
+  background-color: pink;
+}
+
+h2 {
+ color: pink;
+ font-family: monospace;
+}
+.content-wrapper { float:left; }
+.image-wrapper img { padding: 10px;
+ }
+#alignPhoto {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.carousel-item img{
+  width: auto;
+  height: 500px;
+  max-height: 600px;
+  margin: auto; 
+  display: block;
+  }
+
