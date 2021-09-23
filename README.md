@@ -1,3 +1,3 @@
-# gayflixMovie
+# gayflix cinema booking system
 
-Cinema booking app. School project made in 2019 using React, .NET and MySQL
+Cinema booking app. This was a school project made in 2019 using React, .NET and MySQL
